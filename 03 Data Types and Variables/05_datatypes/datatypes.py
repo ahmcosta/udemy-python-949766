@@ -1,0 +1,5 @@
+print(type('a'))
+print(type('abc'))
+print(type(2))
+print(type(2.2))
+print(type(20000000000))
